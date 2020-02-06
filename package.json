@@ -6,7 +6,7 @@
     "start": "webpack-dev-server --mode development --open"
   },
   "keywords": [],
-  "author": "Your Name Here",
+  "author": "Matt Crook",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.4.5",
