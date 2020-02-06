@@ -1,7 +1,7 @@
 {
   "name": "your-app-name-here",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Setup",
   "scripts": {
     "start": "webpack-dev-server --mode development --open"
   },
@@ -24,5 +24,14 @@
   },
   "dependencies": {
     "json-server": "^0.15.1"
-  }
+  },
+  "main": "webpack.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattCrook/webpack-with-json-server-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MattCrook/webpack-with-json-server-boilerplate/issues"
+  },
+  "homepage": "https://github.com/MattCrook/webpack-with-json-server-boilerplate#readme"
 }
